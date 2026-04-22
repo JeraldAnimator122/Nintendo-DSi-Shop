@@ -1,1 +1,16 @@
-writing css later, or not
+body
+  margin: 0;
+}
+.dsiware_free_category
+  border: #0000ff;
+  border-radius: 5px;
+  width: 80px; 
+  height: 48px;
+}
+
+.dsiware_200_category
+  border: #00aa00;
+  border-radius: 5px;
+  width: 80px; 
+  height: 48px;
+}
