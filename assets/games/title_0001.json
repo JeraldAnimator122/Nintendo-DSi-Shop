@@ -1,7 +1,7 @@
 {
   "title_id": "0001",
   "name": "Kirby: Super star Ultra",
-  "cost_points": Free,
+  "cost_points": 0,
   "blocks_required": 94,
   "region": "USA",
   "download_url": "https://{{ your app host }}.com/titles/free/kirbysuperstarultra.nds"
