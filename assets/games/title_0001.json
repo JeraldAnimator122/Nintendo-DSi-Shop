@@ -1,1 +1,8 @@
-write game #1 here for the DSiware here!
+{
+  "title_id": "0001",
+  "name": "Kirby: Super star Ultra",
+  "cost_points": Free,
+  "blocks_required": 94,
+  "region": "USA",
+  "download_url": "https://{{ your app host }}.com/titles/free/kirbysuperstarultra.nds"
+}
