@@ -1,1 +1,1 @@
-enter DSiware title games and app list data here!
+DSishop append{{ "0001.json" }} name="Kirby: Super Star Ultra!"
