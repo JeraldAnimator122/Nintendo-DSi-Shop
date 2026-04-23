@@ -1,1 +1,5 @@
-enter DNS redirect python here!
+import dnslib
+import BaseHTTPhandler
+
+Port = "85",
+# idk abt this part 
